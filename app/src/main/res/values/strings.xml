@@ -1,0 +1,40 @@
+<resources>
+    <string name="app_name">QQ VPN</string>
+    <string name="beans">Beans</string>
+    <string name="connecting">Connecting</string>
+    <string name="connected">Connected</string>
+    <string name="disconnected">Disconnect</string>
+    <string name="qq_vpn">QQ VPN</string>
+    <string name="quality">QUALITY</string>
+    <string name="and">AND</string>
+    <string name="insert_test_config">Insert test config</string>
+    <string name="confirm">Confirm</string>
+    <string name="clear">Clear</string>
+    <string name="servers">SERVERS</string>
+    <string name="share">Share</string>
+    <string name="privacy_policy">Privacy policy</string>
+    <string name="contact_us">Contact us</string>
+    <string name="privacy_policy_text">At QQ VPN, we prioritize your privacy. We collect minimal personal information, such as your email address for account creation and maintenance. Additionally, we collect usage data, including connection timestamps and server locations, to enhance our service and ensure its security. We implement robust security measures to protect your data and do not sell, trade, or rent your personal information to third parties. However, we may share information with trusted service providers to help us operate our service or comply with legal requirements.
+</string>
+    <string name="update">Update</string>
+    <string name="cancel">Cancel</string>
+    <string name="to_new_version">to new version</string>
+    <string name="new_feature_text">we added lots of new features and fix some problems to make your experience as smooth as possible  </string>
+    <string name="oops">Oops!!</string>
+    <string name="under_construction">Under Construction!!</string>
+    <string name="under_construction_full_text">We are currently maintaining our app. We\'ll be back soon. Thank you for your patience.</string>
+    <string name="maintanance_caption">We are currently maintaining our app.</string>
+    <string name="be_back_soon">We\'ll be back soon</string>
+    <string name="thank_you">Thank you for your patience</string>
+    <string name="notification">Notification</string>
+    <string name="no_notif">No notification</string>
+    <string name="disabled_user_reg_page">Not Accepting New Users</string>
+    <string name="disabled_user_reg_caption">Thank you for your interest in our VPN service. Unfortunately, we have reached our maximum capacity and cannot accept new registrations at this time. We are working diligently to expand our services and will notify you as soon as we can accommodate new users.</string>
+    <string name="please_select_server">Please select a server</string>
+    <string name="server_already_selected">Server already selected</string>
+    <string name="loading">Loading…</string>
+    <string name="registering">Registering…</string>
+    <string name="authenticating">Authenticating user…</string>
+    <string name="loading_servers">Loading servers…</string>
+    <string name="getting_server_delays">Getting server delays…</string>
+</resources>

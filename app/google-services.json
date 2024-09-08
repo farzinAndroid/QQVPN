@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "751966097412",
+    "project_id": "sparrow-25b52",
+    "storage_bucket": "sparrow-25b52.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:751966097412:android:c4c0c47f65f09a112ba551",
+        "android_client_info": {
+          "package_name": "pro.sparrow_team.qq"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDTI5Gb2vkQmCMYnGs-EQDuLkmCDOknkTM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
