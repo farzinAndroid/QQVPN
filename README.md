@@ -6,6 +6,9 @@ A secure and efficient VPN app built with Kotlin, Jetpack Compose, Retrofit Coro
 ## Key Features:
 
 - V2ray Support: Utilizes the V2ray library for high-performance and secure VPN connections.
+  ```
+  https://github.com/dev7dev/V2ray-Android
+  ```
 - Jetpack Compose: Leverages the declarative UI framework for a modern and dynamic user interface.
 - Retrofit : Employs Retrofit for efficient network request.
 - Coroutines : Employs Coroutines for asynchronous programming.
